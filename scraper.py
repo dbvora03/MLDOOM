@@ -2,8 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
-
-GENIUS_API_TOKEN = 'mTpFj3bH6sp0UH9vQsUNfyMuo8wbOnLK17Vtp_rgV96z1SoU7VyjbKcmt_fyFVap'
+from config import GENIUS_API_TOKEN
 
 # Get artist object from Genius API
 def request_artist_info(artist_name, page):
