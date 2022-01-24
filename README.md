@@ -1,6 +1,6 @@
 # ML DOOM
 
-ML DOOM is a a project that uses GPT-2 to generate lyrics that mimic your favourite rapper's favourite rapper: MF DOOM. The purpose of this project is to take the concept of "DOOM bots" even further. As a rapper who revolves around the " mastermind supervillain" theme, DOOM bots are people hired by MF DOOM who perform at concerts and go into public as MF DOOM himself. What if we took DOOM bots one step further by creating a bot that generates MF DOOM lyrics.... without MF DOOM. 
+ML DOOM is a a project that uses GPT-2 to generate lyrics that mimic your favourite rapper's favourite rapper: MF DOOM.
 
 ---
 
